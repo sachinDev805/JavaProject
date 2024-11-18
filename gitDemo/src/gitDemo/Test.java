@@ -12,6 +12,9 @@ System.out.println("This is main method");
 	public void m3() {
 		System.out.println("This is m3");
 	}
+	public void m4() {
+		System.out.println("This is m4");
+	}
 	
 
 }
